@@ -22,3 +22,4 @@ El sistema debe mostrar la información solicitada por el usuario en menos de 1.
 El sistema debe de visualizarse correctamente en los diferentes dispositivos
 El sistema debe tener una interfaz fácil de usar para que los usuarios puedan realizar acciones de forma ágil
 El sistema debe visualizar la información en tiempo real para garantizar la integridad de datos
+El sistema debe cifrar los datos personales de los usuarios para garantizar su privacidad y seguridad.
