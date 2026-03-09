@@ -22,3 +22,7 @@ El sistema debe mostrar la información solicitada por el usuario en menos de 1.
 El sistema debe de visualizarse correctamente en los diferentes dispositivos
 El sistema debe tener una interfaz fácil de usar para que los usuarios puedan realizar acciones de forma ágil
 El sistema debe visualizar la información en tiempo real para garantizar la integridad de datos
+El sistema debe garantizar la seguridad de los datos de los usuarios mediante autenticación y protección de la información.
+El sistema debe realizar copias de seguridad automáticas de la información para evitar pérdida de datos.
+
+El sistema debe ser escalable para soportar un aumento en la cantidad de usuarios y bicicletas en el campus.
